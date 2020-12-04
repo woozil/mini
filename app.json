@@ -1,0 +1,75 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/login/index", 
+    "pages/auth/index",
+    "pages/recommend/index",
+    "pages/find/index",
+    "pages/message/index",
+    "pages/focus/index",
+    "pages/search/index",
+    "pages/help/index",
+    "pages/topic/index",
+    "pages/home/index",
+    "pages/event/index",
+    "pages/product/index",
+    "pages/food/index",
+    "pages/scenery/index",
+    "pages/more/index",
+    "pages/create/index",
+    "pages/edit/index",
+    "pages/add/index",
+    "pages/work/index",
+    "pages/likes/index",
+    "pages/trends/index",
+    "pages/friends/index",
+    "pages/fans/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Weixin",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar":{
+    "color": "",
+    "selectedColor": "",
+    "backgroundColor": "",
+    "position": "bottom",
+    "borderStyle": "black",
+    "list":[
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "",
+        "selectedIconPath": ""
+      },
+      {
+        "pagePath": "pages/find/index",
+        "text": "发现",
+        "iconPath": "",
+        "selectedIconPath": ""
+      },
+      {
+        "pagePath": "pages/more/index",
+        "text": "加号",
+        "iconPath": "",
+        "selectedIconPath": ""
+      },
+      {
+        "pagePath": "pages/message/index",
+        "text": "消息",
+        "iconPath": "",
+        "selectedIconPath": ""
+      },
+      {
+        "pagePath": "pages/auth/index",
+        "text": "我",
+        "iconPath": "",
+        "selectedIconPath": ""
+      }
+    ]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
